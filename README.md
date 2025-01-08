@@ -1,8 +1,8 @@
-This is a custom map for a game "Bad Business" in an game roblox
+This is a custom map for a roblox game "Bad Business"
 
-How to play da map (firstly play in a private map)
+How to play da map (firstly only avaiable for private maps)
 
-needs to be a raw url so press the map version and click a button that says "raw", then copy the url (not the bazilion decoder inside it you'll be kicked if you did that)
+needs to be a raw url so press the map version and click the button that says "raw", then copy the url (not the bazilion decoder inside it you'll be kicked if you did that)
 
 (in-game)
 1. press F6
